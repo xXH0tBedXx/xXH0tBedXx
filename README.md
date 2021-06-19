@@ -9,7 +9,7 @@ My name is **Efim**. I'm a student of the branch of ***`«Ecole 42»`*** in Russ
 [![TG](https://user-images.githubusercontent.com/76059664/122641853-7191e200-d110-11eb-9fae-25a9bc68196a.png "Telegramm")](https://t.me/H0tBed)
 
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tasian?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tasian?privacyName=true)](https://github.com/xXH0tBedXx/school21_projects)
 <!--
 **xXH0tBedXx/xXH0tBedXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
