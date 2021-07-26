@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Efim**. I'm a student of the branch of ***`«Ecole 42»`*** in Russia named ****`«School 21»`****
 
-- 🔭 I’m currently working on docker project, named ***inception***.
+- 🔭 I’m currently working on shell project, named ***minishell***.
 
 📫 How to reach me:
 
