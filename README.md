@@ -12,7 +12,8 @@ My name is **Efim**. I'm a student of the branch of ***`«Ecole 42»`*** in Russ
 </a>
 [![white+game+gamer+gaming+gradient+social+media+steam+icon-1320192481768246335_64](https://user-images.githubusercontent.com/76059664/122648821-8a5fbf00-d133-11eb-99fc-5baea0a36693.png "steam")](https://steamcommunity.com/id/H0tBed)
 
-
-
+<!-- 
+![photo-1527960669566-f882ba85a4c6](https://user-images.githubusercontent.com/76059664/141651168-2131b367-7105-4978-8b8e-672fe46c59c3.jpeg)
+ -->
 -------
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tasian?privacyName=true)](https://github.com/xXH0tBedXx/school21_projects)
