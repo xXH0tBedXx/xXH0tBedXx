@@ -16,6 +16,7 @@ My name is **Efim**. I'm a student of the branch of ***`«Ecole 42»`*** in Russ
 ![photo-1527960669566-f882ba85a4c6](https://user-images.githubusercontent.com/76059664/141651168-2131b367-7105-4978-8b8e-672fe46c59c3.jpeg)
  -->
 -------
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tasian?privacyName=true)](https://github.com/xXH0tBedXx/school21_projects)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXH0tBedXx&theme=dracula)](https://github.com/xXH0tBedXx/school21_projects)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tasian?privacyName=true)](https://github.com/xXH0tBedXx/school21_projects)
+
 
