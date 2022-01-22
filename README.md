@@ -17,5 +17,5 @@ My name is **Efim**. I'm a student of the branch of ***`«Ecole 42»`*** in Russ
  -->
 -------
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/tasian?privacyName=true)](https://github.com/xXH0tBedXx/school21_projects)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXH0tBedXx&theme=dracula&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xXH0tBedXx&theme=dracula)](https://github.com/xXH0tBedXx/school21_projects)
 
